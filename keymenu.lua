@@ -2,6 +2,7 @@
   BlackAir Key Menu  v3.1
   Open source (MIT). Use it, change it, ship it in your hub.
   https://protect.blackair.dev/docs/key-menu
+  https://github.com/MrEye12/blackair-keymenu
 
   A ready key window for Roblox scripts. It takes the colors and style you set in the
   BlackAir dashboard (Style tab), checks keys with the BlackAir Key API, remembers the key,
